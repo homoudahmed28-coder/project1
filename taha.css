@@ -84,11 +84,11 @@ h3{
 }
 @font-face {
     font-family: 'font';
-    src: url('../src/Edu_VIC_WA_NT_Hand/EduVICWANTHand-VariableFont_wght.ttf') format('truetype');
+    src: url('Edu_VIC_WA_NT_Hand/EduVICWANTHand-VariableFont_wght.ttf') format('truetype');
         font-family: 'roboto';
-    src: url('../src/Roboto/Roboto-VariableFont_wdth\,wght.ttf') format('truetype');
+    src: url('Roboto/Roboto-VariableFont_wdth\,wght.ttf') format('truetype');
         font-family: 'alumni';
-    src: url('../src/Alumni_Sans_SC/AlumniSansSC-VariableFont_wght.ttf') format('truetype');
+    src: url("Alumni_Sans_SC/AlumniSansSC-VariableFont_wght.ttf') format('truetype');
 }
 footer{
     background: #1d1d1d;
@@ -154,3 +154,4 @@ box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 6px -1px, rgba(0, 0, 0, 0.06) 0px 2px 4px
 .project .picture{ width: 100% ;height: 100%;}
 header h2 { width: 90%;}
 }
+
